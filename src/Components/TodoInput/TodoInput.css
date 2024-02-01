@@ -1,0 +1,25 @@
+.input-container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .input-box-todo {
+    font-size: large;
+    padding: 10px;
+    border-radius: 10px;
+    width: 100%;
+    margin-right: 10px;
+  }
+  
+  .btn-add {
+    background-color: #7659e5;
+    padding: 10px;
+    font-size: large;
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  

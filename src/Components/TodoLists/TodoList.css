@@ -1,0 +1,25 @@
+.list-item {
+    display: flex;
+    justify-content: space-between;
+    height: 20px;
+    width: 95%;
+    list-style: none;
+    border: 2px solid #fff;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 15px 0px;
+  }
+  .icon {
+    display: flex;
+    flex-direction: flex-end;
+    cursor: pointer;
+  }
+  
+  .icon-delete {
+    cursor: pointer;
+  }
+  
+  .icon-delete:hover {
+    color: red;
+  }
+  
